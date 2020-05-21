@@ -1,6 +1,6 @@
 package bye;
-import hello.Demo1;
-
-public class Demo2 extends Demo1{
-
-}
+public class Demo2{
+	Demo2(){
+		System.out.println("I am from Demo2");
+	}
+} 
