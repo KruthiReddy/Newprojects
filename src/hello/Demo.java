@@ -12,6 +12,8 @@ newDemo(String name,int r) {
 	
 		System.out.println(this.n2);
 		System.out.print(this.rno);
+System.out.print("hi")
+;
 		
 	}
 }
